@@ -67,3 +67,9 @@
 2022-04-13 17:39:47 WARN  LoginPage:41 - entering username as sathishtest12344
 2022-04-13 17:39:47 ERROR LoginPage:43 - entering password as sathishtest12344
 2022-04-13 17:39:47 INFO  LoginPage:45 - clicking login button
+2022-04-13 17:41:19 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-13 17:41:19 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\Sathish\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-13 17:41:25 INFO  Helper:21 - chrome browser launched successfully
+2022-04-13 17:41:33 WARN  LoginPage:41 - entering username as sathishtest12344
+2022-04-13 17:41:34 ERROR LoginPage:43 - entering password as sathishtest12344
+2022-04-13 17:41:34 INFO  LoginPage:45 - clicking login button
