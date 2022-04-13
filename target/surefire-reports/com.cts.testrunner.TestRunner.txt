@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.testrunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 28.568 sec <<< FAILURE!
+To validate login functionality(Feature to test user screen related functionalitites)  Time elapsed: 25.472 sec  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "login should be successful with theww "Welcome to Adactin Group of Hotels"" is undefined
+
