@@ -112,3 +112,99 @@
 2022-04-14 13:59:44 WARN  LoginPage:41 - entering username as Nivi2296
 2022-04-14 13:59:45 ERROR LoginPage:43 - entering password as Nivi2296
 2022-04-14 13:59:45 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:05:31 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:05:31 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:05:35 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:05:38 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:05:38 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:05:39 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:05:54 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:05:54 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:05:57 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:06:01 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:06:01 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:06:01 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:07:01 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:07:01 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:07:04 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:07:08 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:07:08 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:07:08 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:07:26 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:07:26 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:07:28 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:07:32 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:07:33 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:07:33 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:14:10 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:14:10 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:14:15 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:14:19 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:14:19 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:14:19 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:14:38 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:14:38 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:14:42 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:14:46 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:14:46 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:14:46 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:15:56 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:15:56 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:15:59 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:16:03 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:16:04 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:16:04 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:16:24 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:16:24 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:16:28 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:16:32 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:16:32 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:16:33 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:26:55 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:26:55 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:26:59 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:27:03 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:27:03 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:27:03 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:27:23 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:27:23 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:27:27 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:27:31 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:27:31 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:27:31 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:55:30 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:55:30 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:55:34 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:55:38 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:55:38 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:55:38 INFO  LoginPage:45 - clicking login button
+2022-04-14 14:55:53 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 14:55:53 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 14:55:56 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 14:56:00 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 14:56:00 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 14:56:01 INFO  LoginPage:45 - clicking login button
+2022-04-14 15:35:46 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 15:35:46 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 15:35:49 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 15:35:53 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 15:35:53 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 15:35:53 INFO  LoginPage:45 - clicking login button
+2022-04-14 15:36:05 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 15:36:05 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 15:36:09 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 15:36:12 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 15:36:13 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 15:36:13 INFO  LoginPage:45 - clicking login button
+2022-04-14 15:42:47 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 15:42:47 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 15:42:50 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 15:42:54 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 15:42:55 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 15:42:55 INFO  LoginPage:45 - clicking login button
+2022-04-14 15:43:08 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 15:43:08 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 15:43:11 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 15:43:15 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 15:43:15 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 15:43:15 INFO  LoginPage:45 - clicking login button

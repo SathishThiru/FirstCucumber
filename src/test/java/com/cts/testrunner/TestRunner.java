@@ -22,7 +22,7 @@ import cucumber.api.junit.Cucumber;
 		glue= {"com.cts.stepdef"},
 		tags= {"@login"}, //OR condition
 		monochrome=true,
-		plugin= {"html:C:\\Users\\Sathish\\eclipse-workspace\\FirstCucumber\\src\\test\\resources\\Reports"},
+		plugin= {"html:target/cucumber-html-report", "json:target/cucumber.json"},
 		strict=true
 		)
 public class TestRunner {}
