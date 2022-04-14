@@ -16,6 +16,7 @@ import cucumber.api.junit.Cucumber;
 
 		features= {"src/test/resources"},
 		dryRun=false, //dryRun = true will generate misiing steps snippets
+		
 		//dryRun =false -> it will execute the steps in the scenaios. 
 		//If there is any missing step->it will generate snippet to implement it
 		glue= {"com.cts.stepdef"},

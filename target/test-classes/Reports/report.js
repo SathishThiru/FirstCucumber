@@ -46,7 +46,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "name": "login should be successful with theww \"\u003cExpected Message\u003e\"",
+  "name": "login should be successful with the \"\u003cExpected Message\u003e\"",
   "keyword": "Then "
 });
 formatter.examples({
@@ -130,11 +130,13 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "login should be successful with theww \"Welcome to Adactin Group of Hotels\"",
+  "name": "login should be successful with the \"Welcome to Adactin Group of Hotels\"",
   "keyword": "Then "
 });
-formatter.match({});
+formatter.match({
+  "location": "LoginStepDef.validateLogin(String)"
+});
 formatter.result({
-  "status": "undefined"
+  "status": "passed"
 });
 });

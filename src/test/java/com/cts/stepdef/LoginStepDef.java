@@ -35,6 +35,7 @@ public class LoginStepDef {
 	{
 		HotelSearch search =  new HotelSearch(driver);
 		Assert.assertEquals("validating welcome text ", expectedMsg, search.getWelComeTxt());		
+		driver.quit();
 	}
 
 	@Given("calculate {int} numbers")
@@ -45,28 +46,28 @@ public class LoginStepDef {
 	@When("the user enters prints the below data")
 	public void readData(DataTable dt) {
 
-		 List<Map<String, String>> table = dt.asMaps(String.class, String.class);
+		List<Map<String, String>> table = dt.asMaps(String.class, String.class);
 		String str = table.get(0).get("Username");
-		 
-		 
-		 
-		 
-		 
-//		 String str =table.get("Username");
-		 System.out.println(str);
-		 System.out.println(table.get(0).get("DOB"));
-//		 System.out.println(table.get(1).get("Username"));
-//		 System.out.println(table.get(1).get("DOB"));
 
-//
-		 
-		 
-		 //one single outer list
-		 //the outer list will contain multiple inner lists
-		 //each inner list contains multiple string value
-		 
-		 //outer list for rows
-		 //inner list for each cell values
+
+
+
+
+		//		 String str =table.get("Username");
+		System.out.println(str);
+		System.out.println(table.get(0).get("DOB"));
+		//		 System.out.println(table.get(1).get("Username"));
+		//		 System.out.println(table.get(1).get("DOB"));
+
+		//
+
+
+		//one single outer list
+		//the outer list will contain multiple inner lists
+		//each inner list contains multiple string value
+
+		//outer list for rows
+		//inner list for each cell values
 		//System.out.println(asList);
 
 

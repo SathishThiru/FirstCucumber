@@ -94,3 +94,21 @@
 2022-04-14 13:15:36 WARN  LoginPage:41 - entering username as Nivi2296
 2022-04-14 13:15:36 ERROR LoginPage:43 - entering password as Nivi2296
 2022-04-14 13:15:37 INFO  LoginPage:45 - clicking login button
+2022-04-14 13:17:00 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 13:17:01 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 13:17:05 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 13:17:09 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 13:17:09 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 13:17:09 INFO  LoginPage:45 - clicking login button
+2022-04-14 13:17:29 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 13:17:29 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 13:17:32 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 13:17:36 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 13:17:36 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 13:17:37 INFO  LoginPage:45 - clicking login button
+2022-04-14 13:59:35 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 13:59:35 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\Sathish\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 13:59:40 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 13:59:44 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 13:59:45 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 13:59:45 INFO  LoginPage:45 - clicking login button
