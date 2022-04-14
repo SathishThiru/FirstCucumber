@@ -64,8 +64,8 @@ formatter.examples({
     },
     {
       "cells": [
-        "sathishtest12344",
-        "sathish123",
+        "Nivi2296",
+        "Saravanan@2296",
         "Welcome to Adactin Group of Hotels",
         "chrome"
       ]
@@ -106,8 +106,8 @@ formatter.step({
     },
     {
       "cells": [
-        "sathishtest12344",
-        "sathish123"
+        "Nivi2296",
+        "Saravanan@2296"
       ]
     }
   ],
@@ -120,7 +120,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "the user enters username as \"sathishtest12344\" and password as \"sathish123\"",
+  "name": "the user enters username as \"Nivi2296\" and password as \"Saravanan@2296\"",
   "keyword": "When "
 });
 formatter.match({

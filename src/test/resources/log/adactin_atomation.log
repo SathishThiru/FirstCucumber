@@ -73,3 +73,24 @@
 2022-04-13 17:41:33 WARN  LoginPage:41 - entering username as sathishtest12344
 2022-04-13 17:41:34 ERROR LoginPage:43 - entering password as sathishtest12344
 2022-04-13 17:41:34 INFO  LoginPage:45 - clicking login button
+2022-04-14 12:45:58 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 12:45:58 INFO  WebDriverManager:1077 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-04-14 12:45:59 INFO  Downloader:128 - Downloading https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+2022-04-14 12:46:00 INFO  Downloader:183 - Extracting binary from compressed file chromedriver_win32.zip
+2022-04-14 12:46:01 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 12:46:06 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 12:46:09 WARN  LoginPage:41 - entering username as sathishtest12344
+2022-04-14 12:46:09 ERROR LoginPage:43 - entering password as sathishtest12344
+2022-04-14 12:46:10 INFO  LoginPage:45 - clicking login button
+2022-04-14 12:53:55 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 12:53:55 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\Sathish\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 12:53:59 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 12:54:03 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 12:54:03 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 12:54:03 INFO  LoginPage:45 - clicking login button
+2022-04-14 13:15:30 INFO  WebDriverManager:615 - Using chromedriver 100.0.4896.60 (since Google Chrome 100 is installed in your machine)
+2022-04-14 13:15:30 INFO  WebDriverManager:1113 - Exporting webdriver.chrome.driver as C:\Users\Sathish\.m2\repository\webdriver\chromedriver\win32\100.0.4896.60\chromedriver.exe
+2022-04-14 13:15:33 INFO  Helper:21 - chrome browser launched successfully
+2022-04-14 13:15:36 WARN  LoginPage:41 - entering username as Nivi2296
+2022-04-14 13:15:36 ERROR LoginPage:43 - entering password as Nivi2296
+2022-04-14 13:15:37 INFO  LoginPage:45 - clicking login button
